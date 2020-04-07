@@ -1,0 +1,10 @@
+definir palabra1 string
+definir palabra2 string
+
+definir largoPalabra1 = palabra.largo tipo number
+definir largoPalabra2 = palabra.largo  tipo number
+
+si largoPalabra1 es menor a 10 && largoPalabra2 es menor a 10 entonces imprimir (largoPalabra1 + largo palabra 2)
+si no largoPalabra1 es menor o igual a 10 o largoPalabra2 es menor o igual a 10 entonces imprimir (largoPalabra1 * largoPalabra2)
+
+

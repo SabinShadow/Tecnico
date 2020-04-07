@@ -1,0 +1,21 @@
+var dia = parseInt(prompt())
+
+abdominales
+lagartijas
+sentadillas
+
+numeroAleatorioAbdominales
+
+numeroAleatorioLagartijas
+
+numeroAleatorioSentadillas
+
+numeroAleatorioTrotar
+
+por (i=0, mientras i< dia; dia se le resta 1){
+si (dia es par)poner en pantalla cuanto se tiene que trotar
+si no (dia es multiplo de 7) poner en pantalla descansar
+si no es ninguna de los anteriores entones, poner en pantalla el numero de sentadillas, abdominales y lagartijas  
+
+
+

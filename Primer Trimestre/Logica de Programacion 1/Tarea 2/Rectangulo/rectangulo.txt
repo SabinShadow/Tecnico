@@ -1,0 +1,8 @@
+altura = parsetInt(prompt())
+
+base = parsetInt(prompt())
+
+por (i sea 0;mientras i sea menor a altura, sumar 1 a i){
+por (j=0 sea 0;mientras j sea menor a altura, sumar 1 a j){
+poner en pantalla *}
+poner un linea entre cada *

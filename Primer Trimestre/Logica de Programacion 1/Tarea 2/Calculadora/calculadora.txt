@@ -1,0 +1,21 @@
+Algoritmo calculadora
+	Leer numeroUno
+	Leer operacion
+	Leer numeroDos
+	
+	Si operacion es suma Entonces
+		Leer resultado = numeroDos + numeroDos
+		
+	Si operacion es resta Entonces
+		Leer resultado = numeroDos - numeroDos
+		
+	Si operacion es multiplicacion Entonces
+		Leer resultado = numeroDos * numeroDos
+			
+	Si operacion es division Entonces
+		Leer resultado = numeroDos / numeroDos
+		
+alert(resultado)
+
+
+FinAlgoritmo

@@ -1,0 +1,13 @@
+Algoritmo sumatoria
+	Leer numeroIngresado
+	Leer i
+	
+	Repetir
+		Repetir
+			i
+		mientras sea menor a numeroIngresado
+		suma i Entonces
+		mostrar = 2 * numeroIngresado + 3
+
+
+FinAlgoritmo

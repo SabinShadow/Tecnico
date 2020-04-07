@@ -1,0 +1,18 @@
+Algoritmo Adivinanza
+
+var numeroAleatorio = Math()
+var numeroSeleccionado
+
+var intentos = 1
+
+por cada(intento; mientras intento sea menor a 8; sumar un intento)
+
+numeroSeleccionado = recibe el numero atraves de parseInt(prompt())
+
+si (numeroSeleccionado es mayor a numeroAleatorio)
+alert(el numero es superior)
+si no (numeroSeleccionado es menor a numeroAleatorio)
+alert(el numero es inferior)
+
+si (numeroSeleccionado es igual a numero aleatorio) el juego termina y gano el jugador
+si no escribir en pantalla se acabaron los intentos
